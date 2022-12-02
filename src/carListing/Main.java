@@ -17,5 +17,6 @@ public class Main {
         );
 
         Sorting.printCarBySorting(cars,"Red");
+        Sorting.printCarBySorting(cars,12000,20000);
     }
 }
