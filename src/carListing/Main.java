@@ -16,6 +16,7 @@ public class Main {
                 new Car("Jeep", "Wrangler", "Red", 24500)
         );
 
-
+        Sorting.sortByName(cars,"Honda");
+        Sorting.sortByModel(cars,"Lancer");
     }
 }
