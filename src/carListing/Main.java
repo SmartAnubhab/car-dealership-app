@@ -16,9 +16,6 @@ public class Main {
                 new Car("Jeep", "Wrangler", "Red", 24500)
         );
 
-        Sorting.printCarBySorting(cars,"Red");
-        Sorting.printCarBySorting(cars,12000,20000);
-        Sorting.sortByModel(cars,"Accord");
-        Sorting.sortByName(cars,"Toyota");
+
     }
 }
